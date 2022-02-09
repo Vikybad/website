@@ -1,0 +1,24 @@
+.o-level{
+	font-family: 'Verdana';
+	font-size: 20pt;
+	color: lime;
+	background-color: black;
+}
+.about{
+	font-family: 'Verdana';
+	font-size: 20pt;
+	color: blue;
+	background-color: yellow;
+}
+.contact{
+	font-family: 'Verdana';
+	font-size: 20pt;
+	color: red;
+	background-color: silver;
+}
+.datascience{
+	font-family: 'Verdana';
+	font-size: 20pt;
+	color: green;
+	background-color: orange;
+}

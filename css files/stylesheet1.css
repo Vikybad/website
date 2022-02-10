@@ -1,6 +1,6 @@
 body{
 	margin:0;
-	font-size: 16pt;
+	font-size: 100%;
 	background-color: silver;
 }
 .img{
@@ -8,13 +8,18 @@ body{
 	height:90px;
 }
 #table{
-	border:1px solid;
 	width:100%;
 	margin: 0;
 }
 #table a:hover{
 	background-color: yellow;
+
+}
+tr{
+	background-color: cornsilk;
 }
 td{
-	border-right: 1px solid black;
+	
+	text-decoration: none;
+	text-align: center;
 }
